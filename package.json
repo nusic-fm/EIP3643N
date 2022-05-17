@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@onchain-id/solidity": "1.0.0",
+    "@openzeppelin/contracts": "^4.4.1"
+  }
+}
